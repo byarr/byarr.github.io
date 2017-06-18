@@ -1,0 +1,1 @@
+Is backward iteration faster?
